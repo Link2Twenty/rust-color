@@ -1,0 +1,10 @@
+[package]
+name = "color-manipulation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "guessing_game"
+path = "src/lib.rs"
