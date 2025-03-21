@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [lib]
-name = "guessing_game"
+name = "color_manipulation"
 path = "src/lib.rs"
